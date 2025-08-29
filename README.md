@@ -19,3 +19,26 @@ Wireframes are essential tools in the design process, as they provide a visual b
 ### 4. Functionality
 - **Description:** Highlights interactive components such as buttons, forms, and input fields that allow users to perform actions.
 - **Example Contribution:** A “Book Now” button under each listed tour package clearly signals the action users can take, improving usability and conversions.
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process. The two most common types are **Low-Fidelity Wireframes** and **High-Fidelity Wireframes**.
+
+### Low-Fidelity Wireframes
+- **Description:** Simple sketches or outlines that focus on structure and layout rather than visual design.  
+- **Usage:** Used early in the design process to brainstorm ideas, map user flows, and gather feedback without investing too much time in details.  
+- **Example:** A hand-drawn sketch or a simple digital outline with boxes representing text and images.
+
+### High-Fidelity Wireframes
+- **Description:** More detailed representations that include typography, spacing, colors, and sometimes real content. They closely resemble the final product.  
+- **Usage:** Used later in the design process to refine usability, demonstrate interactions, and prepare for prototyping and development.  
+- **Example:** A polished digital wireframe created in tools like Figma, Sketch, or Adobe XD that shows exact font sizes, colors, and content layout.
+
+---
+
+## Identifying the Wireframe Type in This Project
+
+The wireframe used in this project is a **Low-Fidelity Wireframe**.  
+- It emphasizes **layout structure, navigation flow, and content placement** rather than visual styling.  
+- This makes it suitable for **early-stage design discussions**, where the goal is to validate functionality and user experience before adding detailed design elements.  
+
