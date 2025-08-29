@@ -34,7 +34,28 @@ Wireframes come in different levels of detail, depending on the stage of the des
 - **Usage:** Used later in the design process to refine usability, demonstrate interactions, and prepare for prototyping and development.  
 - **Example:** A polished digital wireframe created in tools like Figma, Sketch, or Adobe XD that shows exact font sizes, colors, and content layout.
 
+## Benefits of Wireframing in Software Development
+
+Wireframing is not just a design activity—it plays a crucial role in the **software development lifecycle (SDLC)**. By providing a visual blueprint of the product, wireframes help align the team before heavy design or coding begins.
+
+### 1. Guides the Design Process
+- **Explanation:** Wireframes establish the foundation for layout, navigation, content placement, and functionality.  
+- **Example:** In this project, the low-fidelity wireframe highlights how users will navigate between *Home*, *Bookings*, and *Profile* before any styling is applied. This ensures the design supports user goals from the start.
+
+### 2. Facilitates Communication Among Team Members
+- **Explanation:** Wireframes act as a shared reference point for designers, developers, and stakeholders, reducing misunderstandings.  
+- **Example:** A developer can see exactly where the “Book Now” button should appear, while stakeholders can confirm whether the placement aligns with business goals.
+
+### 3. Saves Time and Resources
+- **Explanation:** Identifying issues at the wireframe stage prevents costly redesigns later in the process.  
+- **Example:** Moving a search bar from the bottom of the page to the top during wireframing is quick and inexpensive compared to re-coding an entire feature.
+
+### 4. Supports Requirement Analysis
+- **Explanation:** Wireframes make abstract requirements more concrete, allowing teams to validate assumptions early.  
+- **Example:** Instead of a vague statement like *“Users should easily find trips”*, the wireframe shows a prominent search bar in the header, ensuring requirements translate into usable design.
+
 ---
+
 
 ## Identifying the Wireframe Type in This Project
 
