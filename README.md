@@ -42,3 +42,25 @@ The wireframe used in this project is a **Low-Fidelity Wireframe**.
 - It emphasizes **layout structure, navigation flow, and content placement** rather than visual styling.  
 - This makes it suitable for **early-stage design discussions**, where the goal is to validate functionality and user experience before adding detailed design elements.  
 
+
+
+
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process. The two most common types are **Low-Fidelity Wireframes** and **High-Fidelity Wireframes**.
+
+| Type                  | Description | Usage | Example |
+|-----------------------|-------------|-------|---------|
+| **Low-Fidelity**      | Simple sketches or outlines focusing on structure and layout rather than visual design. | Early in the design process to brainstorm ideas, map user flows, and gather quick feedback. | Hand-drawn sketches or simple digital outlines with placeholder boxes. |
+| **High-Fidelity**     | Detailed representations including typography, spacing, colors, and sometimes real content. Closely resembles the final product. | Later in the design process to refine usability, demonstrate interactions, and prepare for development. | Polished digital wireframes created in Figma, Sketch, or Adobe XD. |
+
+---
+
+## Identifying the Wireframe Type in This Project
+
+The wireframe used in this project is a **Low-Fidelity Wireframe**.  
+- It emphasizes **layout structure, navigation flow, and content placement** rather than visual styling.  
+- This makes it suitable for **early-stage design discussions**, where the goal is to validate functionality and user experience before adding detailed design elements.  
+
+![Wireframe Example](alx-wireframe.png)
